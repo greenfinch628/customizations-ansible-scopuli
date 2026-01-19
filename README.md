@@ -1,15 +1,19 @@
-# customizations-ansible-scopuli
-
-
-Is this a heading with equal signs
-==================================
-
+# Heading 1: customizations-ansible-scopuli
 
 line1
-line 2
+line2
+line3
 
-Is this a heading with underlines
-_________________________________
+## Heading2: subheading
 
-Is this a heading with hyphens
-------------------------------
+line1
+line2
+line3
+'''bash
+sudo dnf install gsmart
+'''
+### Heading3: Sub sub heading
+
+line1
+line2
+line3
