@@ -12,6 +12,12 @@ line3
 '''bash
 sudo dnf install gsmart
 '''
+
+```bash
+pip install foobar
+```
+
+
 ### Heading3: Sub sub heading
 
 line1
