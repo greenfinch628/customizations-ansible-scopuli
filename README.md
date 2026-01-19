@@ -1,4 +1,4 @@
-customizations-ansible-scopuli (WIP)
+# customizations-ansible-scopuli (WIP)
 
 Collection of files and scripts used to customize Ansible installation
 
