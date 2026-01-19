@@ -17,10 +17,13 @@ sudo dnf install gsmart
 ```bash
 pip install foobar
 ```
+## Contributing
 
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
 
-### Heading3: Sub sub heading
+Please make sure to update tests as appropriate.
 
-line1
-line2
-line3
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
