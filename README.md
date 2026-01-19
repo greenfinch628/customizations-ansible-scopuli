@@ -1,23 +1,11 @@
-# Heading 1: customizations-ansible-scopuli
+# Repo: customizations-ansible-scopuli
 
-line1
+Collection of files and scripts used to customize Ansible installation
 
-line2
-
-line3
-
-## Heading2: subheading
-
-line1
-line2
-line3
+## Code: Example code block
 
 ```bash
 sudo dnf install gsmart
-```
-
-```bash
-pip install foobar
 ```
 ## Contributing
 
