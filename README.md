@@ -9,9 +9,10 @@ line3
 line1
 line2
 line3
-'''bash
+
+```bash
 sudo dnf install gsmart
-'''
+```
 
 ```bash
 pip install foobar
