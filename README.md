@@ -1,7 +1,9 @@
 # Heading 1: customizations-ansible-scopuli
 
 line1
+
 line2
+
 line3
 
 ## Heading2: subheading
