@@ -10,3 +10,6 @@ line 2
 
 Is this a heading with underlines
 _________________________________
+
+Is this a heading with hyphens
+------------------------------
